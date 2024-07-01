@@ -1,10 +1,8 @@
 <div align="center">
   <h1 align="center">
-    LITERAGOOD
+    <br /> Proyecto para mostrar por consola la API de Guntedex 
     <br />
-    <br />
-    [![BANMNER-LOW.jpg](https://i.postimg.cc/k4fBnm06/BANMNER-LOW.jpg)](https://postimg.cc/k6RnckXq)
-  </h1>
+     </h1>
 </div>
 
 # 💻 Tech Stack:
