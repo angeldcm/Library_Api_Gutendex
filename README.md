@@ -29,3 +29,7 @@ Java             11       Lenguaje principal de desarrollo
 Spring Boot      3.1.5    Framework para desarrollo de aplicaciones Java 
 MySQL                     Sistema de gestión de bases de datos relacional
 Visual Studio Code        Editor de código fuente utilizado
+----------------------------------------------------------
+Este repositorio esta basado en la creación del repositorio https://github.com/Johanlex20/challenge-2-api-consumo-back-literatura 
+Se toma como un elemento de apoyo se realiza el reconocimiento de la base del usuario Johanlex20 Johanlex
+
